@@ -7,9 +7,12 @@
   "placement": "LEFT_MENU",
   "scope": [],
   "install": {
+ codex/create-basic-bitrix24-marketplace-app-gxbcnm
     "url": "https://github.com/radmandev/testbitrixapp/install.php"
   },
-  "handler": "https://github.com/radmandev/testbitrixapp/handler.php",
+  "handler": "https://github.com/radmandev/testbitrixapp/handler.php"
+  },
+ main
   "support": {
     "email": "support@your-domain.example",
     "url": "https://your-domain.example"
