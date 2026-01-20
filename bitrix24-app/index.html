@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>External App Viewer</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://api.bitrix24.com/api/v1/" defer></script>
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <main class="app">
+      <div class="app__frame" id="app-frame">
+        <iframe
+          id="external-app"
+          title="External Application"
+          loading="lazy"
+          referrerpolicy="no-referrer"
+        ></iframe>
+      </div>
+      <noscript>
+        <p class="app__message">This app requires JavaScript to run.</p>
+      </noscript>
+    </main>
+  </body>
+</html>
