@@ -1,5 +1,7 @@
 (() => {
-  const IFRAME_SRC = "https://example.com";
+ codex/create-basic-bitrix24-marketplace-app-gxbcnm
+  const IFRAME_SRC = "https://github.com/radmandev/testbitrixapp/handler.php";
+ main
   const FRAME_ID = "external-app";
 
   const getFrameHeight = () => {
