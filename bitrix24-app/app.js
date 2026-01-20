@@ -1,5 +1,5 @@
 (() => {
-  const IFRAME_SRC = "https://github.com/radmandev/testbitrixapp.git/handler.php";
+  const IFRAME_SRC = "https://github.com/radmandev/testbitrixapp/handler.php";
   const FRAME_ID = "external-app";
 
   const getFrameHeight = () => {
