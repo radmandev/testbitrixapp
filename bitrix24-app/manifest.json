@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "name": "External App Viewer",
+  "code": "external_app_viewer",
+  "description": "Embeds an external HTTPS application inside Bitrix24 using an iframe.",
+  "type": "placement",
+  "placement": "LEFT_MENU",
+  "scope": [],
+  "install": {
+    "url": "https://your-domain.example/bitrix24-app/index.html"
+  },
+  "support": {
+    "email": "support@your-domain.example",
+    "url": "https://your-domain.example"
+  }
+}
